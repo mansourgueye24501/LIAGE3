@@ -193,7 +193,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   style: ElevatedButton.styleFrom(
                     primary: Colors.orangeAccent,
                     shape: RoundedRectangleBorder(
-                        borderRadius: BorderRadius.circular(20)),
+                        borderRadius: BorderRadius.circular(2)),
                   ),
                   child: Icon(
                     Icons.arrow_right_alt,
